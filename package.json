@@ -1,0 +1,27 @@
+{
+  "name": "boring-avatar",
+  "version": "1.10.2",
+  "description": "BoringAvatar is a Custom Element version of boringdesigners/boring-avatars that generates custom, SVG-based, round avatars from any username and color palette.",
+  "main": "boring-avatar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bemky/boring-avatar.git"
+  },
+  "keywords": [
+    "avatar",
+    "gravatar",
+    "profile picture",
+    "user avatar",
+    "avatar generator",
+    "avatar placeholder"
+  ],
+  "author": "Ben Ehmke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bemky/boring-avatar/issues"
+  },
+  "homepage": "https://github.com/bemky/boring-avatar#readme"
+}
